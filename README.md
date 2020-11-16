@@ -8,7 +8,7 @@
 This Docker Image contains the following:
 
 * Oracle Linux 7.7
-* Oracle Database 12.2 / 18.3 / 19.3 Enterprise Edition with non-CDB architecture
+* Oracle Database **12.2** / 18.3 / 19.3 Enterprise Edition with non-CDB architecture
 * Oracle APEX 19.2
 * Oracle ORDS 19.4
 * Oracle SQLcl 19.4
